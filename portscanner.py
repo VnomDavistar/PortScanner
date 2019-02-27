@@ -11,7 +11,6 @@ import thread
 import platform
 import time
 from datetime import datetime
-import argparse
 
 banner = '''
          _nnnn_                      
